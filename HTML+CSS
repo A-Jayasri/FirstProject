@@ -1,0 +1,138 @@
+<html>
+<head>
+    <title>Home - HTML + CSS</title>
+    <link rel="stylesheet"  href="./style.css">
+</head>
+<body>
+        <section>
+            <header>
+               <div>
+                   <img src="https://excelrcom.b-cdn.net/assets/media/general/logoweb_204.png"alt="ExcelR">
+                </div>
+               <nav>
+                   <ul>
+                       <li>
+                           <a href="#">Home</a>
+                       </li>
+                       <li>
+                           <a href="#">About</a>
+                       </li>
+                       <li>
+                           <a href="#">Services</a>
+                       </li>
+                       <li>
+                           <a href="#">Clients</a>
+                       </li>
+                       <li>
+                           <a href="#">Contacts</a>
+                       </li>
+                       <li>
+                           <a href="#">Blog</a>
+                       </li>
+                   </ul>
+                </nav>
+            
+            </header>
+            <section class="slider">
+                <img src="https://www.thequotes.net/quotes/facebookcover/original/imnotahandsome_f1373026721.jpg" alt="Slider 1">
+            </section>
+            
+            <section class="mainContainer">
+                <div class="leftSideBar">
+                       <li>
+                           <a href="#">Html</a>
+                       <li>
+                           <a href="#">CSS</a>
+                       </li>
+                       <li>
+                           <a href="#">JS</a>
+                       </li>
+                       <li>
+                           <a href="#">Ajax</a>
+                       </li>
+                       <li>
+                           <a href="#">Json</a>
+                       </li>
+                       <li>
+                           <a href="#">Angular</a>
+                       </li>
+                
+              </div>
+                <div>Main content</div>
+                <div style="flex:1;">Right Sidebar</div>
+            </section>
+            <footer>
+               <div>
+                   <h6>Organization</h6>
+                   <ul>
+                       <li>
+                           <a href="#">Home</a>
+                       </li>
+                       <li>
+                           <a href="#">About</a>
+                       </li>
+                        <li>
+                           <a href="#">Services</a>
+                       </li>
+                       <li>
+                           <a href="#">Contact us</a>
+                       </li>
+                   </ul>
+                </div>
+                <div>
+                    <h6>Organization</h6>
+                   <ul>
+                       <li>
+                           <a href="#">Home</a>
+                       </li>
+                       <li>
+                           <a href="#">About</a>
+                       </li>
+                        <li>
+                           <a href="#">Services</a>
+                       </li>
+                       <li>
+                           <a href="#">Contact us</a>
+                       </li>
+                   </ul>
+                
+                </div>
+                <div>
+                    <h6>Organization</h6>
+                   <ul>
+                       <li>
+                           <a href="#">Home</a>
+                       </li>
+                       <li>
+                           <a href="#">About</a>
+                       </li>
+                        <li>
+                           <a href="#">Services</a>
+                       </li>
+                       <li>
+                           <a href="#">Contact us</a>
+                       </li>
+                   </ul>
+                </div>
+                <div>
+                    <h6>Organization</h6>
+                   <ul>
+                       <li>
+                           <a href="#">Home</a>
+                       </li>
+                       <li>
+                           <a href="#">About</a>
+                       </li>
+                        <li>
+                           <a href="#">Services</a>
+                       </li>
+                       <li>
+                           <a href="#">Contact us</a>
+                       </li>
+                   </ul>
+                </div>
+            
+            </footer>
+    </section>
+    </body>
+</html>   
